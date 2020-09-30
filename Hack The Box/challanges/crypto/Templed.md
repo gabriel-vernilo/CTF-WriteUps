@@ -23,6 +23,4 @@ so using this basic image, we can decrypt our challenge and we have
 
 72 84 66 123 77 48 78 107 115 95 107 78 51 119 33 12 125
 
-convert decimal to ASCII
-
-finished, we have the flag;
+to get the flag, convert this text from decimal to ASCII;
