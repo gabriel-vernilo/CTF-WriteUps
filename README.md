@@ -8,13 +8,17 @@ ctf's writeups that I solved in:
 
 ### Machines
 
-### Challanges
+### Challenges
 
 
 #### Crypto
 
 * Templed
 * Bank Heist
+
+#### Reversing
+
+* Baby RE
 
 ## Try Hack Me
 
