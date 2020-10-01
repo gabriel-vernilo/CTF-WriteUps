@@ -13,12 +13,12 @@ for the whole fuzzing process (process of finding pages and parameters using a l
 
 with the checkbox "Be recursive" marked, it will find :
 
-/index.html
-/css/
-/js/
-/api/
-/api/index.html
-/api/action.php
+* /index.html
+* /css/
+* /js/
+* /api/
+* /api/index.html
+* /api/action.php
 
 inside css js folders you will find more things, but those don't matter
 
