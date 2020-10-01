@@ -1,7 +1,6 @@
 # Emdee five for life
 
 ## Description
-
 "Can you encrypt fast enough?"
 
 the site has a field that asks for an encrypted text in md5:
