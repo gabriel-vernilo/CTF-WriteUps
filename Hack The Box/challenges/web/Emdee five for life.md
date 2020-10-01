@@ -40,4 +40,6 @@ send = r.post(site,data)
 print(send.text)
 ```
 
+it connects to the site, finds the h3 tag, takes what it contains, encrypts and sends it as data
+
 this returns to the flag
