@@ -30,7 +30,7 @@ ctf's writeups that I solved
 #### Web
 
 * [x] Emdee five for life
-* [ ] FreeLancer
+* [x] FreeLancer
 * [ ] Console
 * [x] Fuzzy
 
