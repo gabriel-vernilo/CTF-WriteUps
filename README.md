@@ -32,7 +32,7 @@ ctf's writeups that I solved
 * [x] Emdee five for life
 * [ ] FreeLancer
 * [ ] Console
-* [ ] Fuzzy
+* [x] Fuzzy
 
 ## Try Hack Me
 
