@@ -12,7 +12,7 @@ ctf's writeups that I solved
 
 ### Machines
 
-* [ ] Blunder
+* [x] Blunder
 * [ ] Tabby
 
 ### Challenges
@@ -31,7 +31,6 @@ ctf's writeups that I solved
 
 * [x] Emdee five for life
 * [x] FreeLancer
-* [ ] Console
 * [x] Fuzzy
 
 ## Try Hack Me
