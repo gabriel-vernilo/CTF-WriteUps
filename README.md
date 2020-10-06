@@ -35,7 +35,8 @@ ctf's writeups that I solved
 
 ## Try Hack Me
 
-* [ ] Pickle Rick
+* [x] Pickle Rick
+* [ ] RootMe
 * [ ] Ignite
 * [ ] dogcat
 * [ ] Owasp top 10
