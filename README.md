@@ -14,6 +14,7 @@ ctf's writeups that I solved
 
 * [x] Blunder
 * [ ] Tabby
+* [ ] Doctor
 
 ### Challenges
 
@@ -36,7 +37,7 @@ ctf's writeups that I solved
 ## Try Hack Me
 
 * [x] Pickle Rick
-* [ ] RootMe
+* [x] RootMe
 * [ ] Ignite
 * [ ] dogcat
 * [ ] Owasp top 10
