@@ -38,7 +38,7 @@ ctf's writeups that I solved
 
 * [x] Pickle Rick
 * [x] RootMe
-* [ ] Ignite
+* [x] Ignite
 * [ ] dogcat
 * [ ] Owasp top 10
 * [ ] Vulnversity
@@ -48,6 +48,7 @@ ctf's writeups that I solved
 * [ ] Metasploit
 * [ ] c4ptur3-th3-fl4g
 * [ ] Basic Pentesting
+* [ ] Tartarus
 
 ## picoCTF
 
