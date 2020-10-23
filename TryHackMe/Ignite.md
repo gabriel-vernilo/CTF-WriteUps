@@ -197,7 +197,7 @@ trying using this password
 
 ![image](https://user-images.githubusercontent.com/53917092/97056752-177c5500-1560-11eb-84bf-9bac6799a1f9.png)
 
-### User flag
+### ROOT flag
 
 ![image](https://user-images.githubusercontent.com/53917092/97056937-8659ae00-1560-11eb-803b-ccae406fa5ab.png)
 
