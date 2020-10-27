@@ -204,7 +204,7 @@ to get a tty
 
 > cat /var/www/user.txt
 
-![image](https://user-images.githubusercontent.com/53917092/95803222-f2712200-0cd5-11eb-9ae6-a8a542164dec.png)
+![image](https://user-images.githubusercontent.com/53917092/97300372-1e8fb580-1835-11eb-9ff6-1de7305674cf.png)
 
 ### root.txt / Privilege Escalation
 
