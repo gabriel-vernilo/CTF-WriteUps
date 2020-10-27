@@ -222,6 +222,6 @@ To look for the files with SUID permission we can use the command:
 
 #### getting
 
-![image](https://user-images.githubusercontent.com/53917092/95803990-e1c1ab80-0cd7-11eb-9541-b517c1383b5d.png)
+![image](https://user-images.githubusercontent.com/53917092/97299626-fbb0d180-1833-11eb-8160-946f299c1725.png)
 
 that's it, thanks for reading
