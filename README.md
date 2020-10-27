@@ -39,7 +39,7 @@ ctf's writeups that I solved
 * [x] Pickle Rick
 * [x] RootMe
 * [x] Ignite
-* [ ] dogcat
+* [x] dogcat
 * [ ] Owasp top 10
 * [ ] Vulnversity
 * [ ] Crack the hash
