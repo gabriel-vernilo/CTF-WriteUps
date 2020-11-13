@@ -15,6 +15,8 @@ ctf's writeups that I solved
 * [x] Blunder
 * [ ] Tabby
 * [ ] Doctor
+* [ ] Passage
+* [ ] Time
 
 ### Challenges
 
@@ -33,6 +35,7 @@ ctf's writeups that I solved
 * [x] Emdee five for life
 * [x] FreeLancer
 * [x] Fuzzy
+* [ ] Templated
 
 ## Try Hack Me
 
@@ -41,6 +44,8 @@ ctf's writeups that I solved
 * [x] Ignite
 * [x] dogcat
 * [ ] Owasp top 10
+* [ ] Mr Robot CTF
+* [x] Bounty Hacker
 * [ ] Vulnversity
 * [ ] Crack the hash
 * [ ] Inclusion
@@ -49,6 +54,14 @@ ctf's writeups that I solved
 * [ ] c4ptur3-th3-fl4g
 * [ ] Basic Pentesting
 * [ ] Tartarus
+* [ ] Gaming Server
+* [ ] Tomghost
+* [ ] Develpy
+* [ ] Anonymous
+* [ ] Peak Hill
+* [ ] Wonderland
+* [ ] Python Playground
+* [ ] Anonymous
 
 ## picoCTF
 
